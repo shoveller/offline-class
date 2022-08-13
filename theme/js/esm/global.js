@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 13 Aug 2022 08:05:38 GMT
+ * Generated on Sat, 13 Aug 2022 08:17:19 GMT
  */
 
 export const 140 = "140%";
@@ -109,3 +109,12 @@ export const AboveLow = {"color":"#0000001a","type":"dropShadow","x":0,"y":-4,"b
 export const BelowHigh = {"color":"#0000004d","type":"dropShadow","x":0,"y":16,"blur":48,"spread":0};
 export const BelowMedium = {"color":"#00000033","type":"dropShadow","x":0,"y":8,"blur":36,"spread":0};
 export const BelowLow = {"color":"#0000001a","type":"dropShadow","x":0,"y":4,"blur":24,"spread":0};
+export const Pink100 = "#fff2f5";
+export const Pink200 = "#ffe6ea";
+export const Pink300 = "#ffd9e0";
+export const Pink400 = "#ffcdd5";
+export const Pink500 = "#ffc0cb";
+export const Pink600 = "#cc9aa2";
+export const Pink700 = "#99737a";
+export const Pink800 = "#664d51";
+export const Pink900 = "#332629";

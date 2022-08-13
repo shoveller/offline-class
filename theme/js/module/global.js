@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 13 Aug 2022 08:05:38 GMT
+ * Generated on Sat, 13 Aug 2022 08:17:19 GMT
  */
 
 module.exports = {
@@ -299,5 +299,16 @@ module.exports = {
       "blur": 24,
       "spread": 0
     }
+  },
+  "pink": {
+    "100": "#fff2f5",
+    "200": "#ffe6ea",
+    "300": "#ffd9e0",
+    "400": "#ffcdd5",
+    "500": "#ffc0cb",
+    "600": "#cc9aa2",
+    "700": "#99737a",
+    "800": "#664d51",
+    "900": "#332629"
   }
 }

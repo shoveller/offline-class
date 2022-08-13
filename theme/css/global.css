@@ -105,4 +105,13 @@
   --below-high: 0 16 48 0 #0000004d;
   --below-medium: 0 8 36 0 #00000033;
   --below-low: 0 4 24 0 #0000001a;
+  --pink-100: #fff2f5;
+  --pink-200: #ffe6ea;
+  --pink-300: #ffd9e0;
+  --pink-400: #ffcdd5;
+  --pink-500: #ffc0cb;
+  --pink-600: #cc9aa2;
+  --pink-700: #99737a;
+  --pink-800: #664d51;
+  --pink-900: #332629;
 }
